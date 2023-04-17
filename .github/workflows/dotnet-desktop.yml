@@ -3,7 +3,7 @@ on: push
 env:
   PROJECT_PATH: SystemTrayApp/SystemTrayApp.csproj
   ZIP_PATH: SystemTrayApp/bin/Release/radio.zip
-  EXE_PATH: src/HandySub/bin/Release/radio.exe
+  EXE_PATH: SystemTrayApp/bin/Release/radio.exe
 jobs:
   deploy:
     runs-on: windows-latest
