@@ -1,4 +1,4 @@
-# SystemTrayApp
+## SystemTrayApp
 A quick example of a basic system tray app using .NET Windows Forms. Use this to build your own solutions.
 
 The application displays an empty window at the center of the screen. Minimizing or closing the window hides it to the system tray. Double-clicking on the system tray icon reveals the window again. To exit the application, right-click on the system tray icon and choose Exit.
